@@ -83,4 +83,7 @@ img{
         flex-direction: column;
         gap: 1rem;
     }
+    #msg {
+    font-size: 1.5rem; /* smaller text on mobile */
+  }
 }
