@@ -13,7 +13,6 @@ h1{
     color:white;
     height:5rem;
     line-height: 5rem; /* this is used to center text vertically just give same value as the height */
-    font-family:cursive;
 }
 
 .choices{
@@ -64,11 +63,10 @@ img{
 #msg{
     background-color:#081b31;
     color:white;
-    font-size:2rem;
+    font-size:1.5rem;
     display:inline;
     padding:1rem;
     border-radius:1rem;
-    font-family:cursive;
 }
 @media (max-width: 600px) {
     .choice {
@@ -84,6 +82,6 @@ img{
         gap: 1rem;
     }
     #msg {
-    font-size: 1.5rem; /* smaller text on mobile */
-  }
+        font-size: 1.5rem; /* smaller text on mobile */
+    }
 }
