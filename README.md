@@ -5,7 +5,7 @@ Play against the computer, track your score, and enjoy a clean, responsive UI.
 
 ---
 
-## 🎯 Features
+##  Features
 - Play **Rock**, **Paper**, or **Scissors** against the computer
 - Real-time score tracking
 - Visual feedback for win, lose, and draw
@@ -14,7 +14,7 @@ Play against the computer, track your score, and enjoy a clean, responsive UI.
 
 ---
 
-## 🕹 How to Play
+##  How to Play
 1. Click on **Rock**, **Paper**, or **Scissors**.
 2. The computer will randomly select its move.
 3. The winner is decided based on:
